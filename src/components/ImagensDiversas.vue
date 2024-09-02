@@ -9,6 +9,11 @@
       <img src="@/assets/trufado.png" alt="Trufado" class="gallery-item">
       <img src="@/assets/caramelo.png" alt="Caramelo Salgado" class="gallery-item">
       <img src="@/assets/barra.jpg" alt="BARRA" class="gallery-item">
+      <img src="@/assets/barraembalada.jpg" alt="BARRA" class="gallery-item">
+      <img src="@/assets/barra2.jpg" alt="BARRA" class="gallery-item">
+      <img src="@/assets/barraembalada2.jpg" alt="BARRA" class="gallery-item">
+      <img src="@/assets/barra3.jpg" alt="BARRA" class="gallery-item">
+      <img src="@/assets/barraembalada3.png" alt="BARRA" class="gallery-item">
 
 
       

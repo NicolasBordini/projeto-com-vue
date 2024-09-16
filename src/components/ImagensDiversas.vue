@@ -2,18 +2,18 @@
   <div class="imagens-container">
     <h1>Galeria de Imagens</h1>
     <div class="gallery">
-      <img src="@/assets/leite.png" alt="Chocolate ao Leite" class="gallery-item">
-      <img src="@/assets/morango.png" alt="Morango" class="gallery-item">
-      <img src="@/assets/castanha.png" alt="Castanha do Pará" class="gallery-item">
-      <img src="@/assets/ninho.png" alt="Ninho" class="gallery-item">
-      <img src="@/assets/trufado.png" alt="Trufado" class="gallery-item">
-      <img src="@/assets/caramelo.png" alt="Caramelo Salgado" class="gallery-item">
-      <img src="@/assets/barra.jpg" alt="BARRA" class="gallery-item">
-      <img src="@/assets/barraembalada.jpg" alt="BARRA" class="gallery-item">
-      <img src="@/assets/barra2.jpg" alt="BARRA" class="gallery-item">
-      <img src="@/assets/barraembalada2.jpg" alt="BARRA" class="gallery-item">
-      <img src="@/assets/barra3.jpg" alt="BARRA" class="gallery-item">
-      <img src="@/assets/barraembalada3.png" alt="BARRA" class="gallery-item">
+      <img src="@/assets/leite.png" alt="Chocolate ao Leite" class="gallery-item" loading="lazy">
+      <img src="@/assets/morango.png" alt="Morango" class="gallery-item" loading="lazy">
+      <img src="@/assets/castanha.png" alt="Castanha do Pará" class="gallery-item" loading="lazy">
+      <img src="@/assets/ninho.png" alt="Ninho" class="gallery-item" loading="lazy">
+      <img src="@/assets/trufado.png" alt="Trufado" class="gallery-item" loading="lazy">
+      <img src="@/assets/caramelo.png" alt="Caramelo Salgado" class="gallery-item" loading="lazy">
+      <img src="@/assets/barra.jpg" alt="BARRA" class="gallery-item" loading="lazy">
+      <img src="@/assets/barraembalada.jpg" alt="BARRA" class="gallery-item" loading="lazy">
+      <img src="@/assets/barra2.jpg" alt="BARRA" class="gallery-item" loading="lazy">
+      <img src="@/assets/barraembalada2.jpg" alt="BARRA" class="gallery-item" loading="lazy">
+      <img src="@/assets/barra3.jpg" alt="BARRA" class="gallery-item" loading="lazy">
+      <img src="@/assets/barraembalada3.png" alt="BARRA" class="gallery-item" loading="lazy">
 
 
       
